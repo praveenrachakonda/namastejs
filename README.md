@@ -1,0 +1,2 @@
+# namastejs
+learnings from namastejs
